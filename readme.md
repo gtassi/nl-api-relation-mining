@@ -1,13 +1,13 @@
 Relation mining in unstructured text: a solid approach with expert.ai
 =====================================================================
 
-This C# project is the implementation of the techniques described in the post **Relation mining in unstructured text** (find the full post here: <http://>).
+This Pyhton project is the implementation of the techniques described in the post **Relation mining in unstructured text** (find the full post here: <http://>).
 
 To build and execute the project, you need to do the following:
 
-- download and install .Net Core 5.0 SDK: <https://dotnet.microsoft.com/download/dotnet/5.0>
+- download and install Pyhton 3
 - suggested IDE: Visual Studio Code: <https://code.visualstudio.com/Download>
-- suggested extension: C# for Visual Studio Code (powered by OmniSharp): <https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp>
+- suggested extension: Pyhton for Visual Studio Code (powered by OmniSharp): <https://marketplace.visualstudio.com/items?itemName=ms-python.python>
 - create a trial developer account for expert.ai NL API:
 - download and install Neo4j Desktop: <https://neo4j.com/download/>
 - open Neo4j and start the predefined database or create and start a new one
@@ -42,7 +42,7 @@ py main.py
 Introduction
 ------------
 
-> "What is the case � a fact � is the existence of states of affairs. A state of affairs is a combination of objects (things). It is essential to things that they should be possible constituents of states of affairs."
+> "What is the case — a fact — is the existence of states of affairs. A state of affairs is a combination of objects (things). It is essential to things that they should be possible constituents of states of affairs."
 >
 > L. Wittgenstein, *Tractatus Logico-Philosophicus*, 2-2.011
 
