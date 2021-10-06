@@ -7,7 +7,7 @@ To build and execute the project, you need to do the following:
 
 - download and install Pyhton 3
 - suggested IDE: Visual Studio Code: <https://code.visualstudio.com/Download>
-- suggested extension: Pyhton for Visual Studio Code (powered by OmniSharp): <https://marketplace.visualstudio.com/items?itemName=ms-python.python>
+- suggested extension: Pyhton for Visual Studio Code: <https://marketplace.visualstudio.com/items?itemName=ms-python.python>
 - create a trial developer account for expert.ai NL API:
 - download and install Neo4j Desktop: <https://neo4j.com/download/>
 - open Neo4j and start the predefined database or create and start a new one
